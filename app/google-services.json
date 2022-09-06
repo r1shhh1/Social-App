@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "593792804243",
+    "project_id": "pinstart-37c6a",
+    "storage_bucket": "pinstart-37c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593792804243:android:4d959cd3659b6913533466",
+        "android_client_info": {
+          "package_name": "com.codewithharry.maxpik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593792804243-sf9a14uhj6b2nbs3abj952lmb1uho67m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUfWZXI3ZvV_eHftJLynq-fMmEeALEmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593792804243-sf9a14uhj6b2nbs3abj952lmb1uho67m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593792804243:android:091c4464e0611ece533466",
+        "android_client_info": {
+          "package_name": "com.codewithharry.pinstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593792804243-sf9a14uhj6b2nbs3abj952lmb1uho67m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUfWZXI3ZvV_eHftJLynq-fMmEeALEmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593792804243-sf9a14uhj6b2nbs3abj952lmb1uho67m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
